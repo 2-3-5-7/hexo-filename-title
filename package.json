@@ -1,0 +1,24 @@
+{
+  "name": "hexo-filename-title",
+  "version": "1.0.0",
+  "description": "Use the filename as the title when the Front-matter title is missing",
+  "homepage": "https://github.com/2-3-5-7/hexo-filename-title#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "title",
+    "filename"
+  ],
+  "author": "Jian-Feng Du",
+  "license": "MIT",
+  "peerDependencies": {
+    "hexo": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2-3-5-7/hexo-filename-title.git"
+  }
+}
